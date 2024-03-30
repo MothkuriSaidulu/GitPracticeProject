@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Dev 2 and
+=======
+Dev 1 changes
+>>>>>>> origin/master
